@@ -1,5 +1,11 @@
 # Vepris
 
+<!-- LILLIE_US_PORTFOLIO_START -->
+**Part of [Lillie US](https://github.com/Ibekwemmanuel7/Lillie_US)** · [Portfolio map](https://github.com/Ibekwemmanuel7/Lillie_US/blob/main/docs/PORTFOLIO.md) · [Scope and boundaries](docs/portfolio/SCOPE.md)
+
+**Portfolio domain:** Southern US forestry. **Status:** Design stage; scope documented, implementation pending.
+<!-- LILLIE_US_PORTFOLIO_END -->
+
 Forestry intelligence component of [Lillie US](https://github.com/Ibekwemmanuel7/Lillie_US), intended for the Southern United States.
 
 **Status: design stage.** This repository contains a scope brief, not an implemented or validated monitoring service. No customer, pilot partner, performance target or commercial outcome has been established.
