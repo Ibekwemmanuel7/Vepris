@@ -1,0 +1,15 @@
+# Local environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Credentials and customer material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+data/
+outputs/
+models/
